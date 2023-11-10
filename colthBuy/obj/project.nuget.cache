@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U98E2y3ayjv+HV4EYT3ryayAz7ZBq8MbkWETrJ0mFMgAfR6bPM74EJHieC2UkWPd+qUjJdz2u3LJn2IdDJq04g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\012614\\source\\repos\\colthBuy\\colthBuy\\colthBuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\012614\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\012614\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\012614\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\012614\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

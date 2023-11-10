@@ -1,0 +1,26 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.image-row {
+    display: flex; /* 使用 Flexbox 布局比較好對齊 */
+}
+.image-style {
+    width: 300px;
+    height: 200px;
+    margin:100px;
+}
